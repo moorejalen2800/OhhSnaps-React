@@ -24,7 +24,7 @@ This portfolio is to showcase my projects with the hopes of one day sustaining a
   - [Contributing](#contributing)
   - [Tests](#tests)
   - [Questions](#questions)
-  - [Features](#features]
+ 
 
 
 
@@ -43,3 +43,18 @@ JavaScript
 Node
 
 ## Contributing
+
+
+# License
+
+Copyright  License: Unlicense
+
+
+
+
+# Questions
+
+
+Any questions please feel free to contact me 
+
+https://www.Moorejalen2837@icloud.com
