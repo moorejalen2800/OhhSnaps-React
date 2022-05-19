@@ -16,7 +16,19 @@ This portfolio is to showcase my projects with the hopes of one day sustaining a
 <img width="1440" alt="Screen Shot 2022-03-17 at 10 02 48 PM" src="https://user-images.githubusercontent.com/100977121/167344024-ac29a632-0415-4058-92c2-74a3495b22ee.png">
 
 
-## Features
+
+## Table of Contents
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
+  - [Features](#features]
+
+
+
+# Features
 
 BootStrap
 
@@ -30,4 +42,4 @@ JavaScript
 
 Node
 
-## Collaborators
+## Contributing
