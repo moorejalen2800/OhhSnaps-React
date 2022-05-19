@@ -20,13 +20,13 @@ function Resume() {
             <a href="https://www.linkedin.com/in/jalen-moore-17a868233/">
               <img
                 src="https://elements-cover-images-0.imgix.net/6481d48a-fe8c-4a97-94a1-663be11e04d1?auto=compress&crop=edges&fit=crop&fm=jpeg&h=800&w=1200&s=a89f14b6da8b1872c642930e08e8287b"
-                alt="inkedIn"
+                alt="linkedIn"
               />
             </a>
           </p>
 
           <a
-            href=""
+            href="https://docs.google.com/document/d/1LHwfbPZNLFBR9k63x7GGCl1Zps5P52TPDYQYJjVkWLw/edit?usp=sharing"
             class="link"
           >
             Download Resume
@@ -36,10 +36,9 @@ function Resume() {
 
       <div class="justify-content-center mt-5">
         <div>
-          <h2 className="top-title">Proficiencies</h2>
+          <h2 className="top-title">Skills</h2>
           <ul>
             <li>
-            SDL Tridion, Adobe Experience Manager (6.5, As a cloud Service), C#.NET, ASP.NET, JAVA,<br />
             HTML, CSS (Bootstrap, HandleBars), JavaScript, jQuery, React.js, IndexedDB,<br />
             Node.js, Express.js, SQL, Sequelize, MongoDB, Mongoose, NoSQL, APIs, Templating.
             </li>
