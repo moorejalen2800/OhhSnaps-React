@@ -14,7 +14,7 @@ This portfolio is to showcase my projects with the hopes of one day sustaining a
 
 ## Project Screenshots
 
-<img width="1440" alt="Screen Shot 2022-05-19 at 11 22 45 PM" src="https://user-images.githubusercontent.com/100977121/169449439-3e9671cd-5251-4903-9e63-867965fe3949.png">
+<img width="1440" alt="Screen Shot 2022-05-20 at 12 15 52 AM" src="https://user-images.githubusercontent.com/100977121/169449591-ff558fbf-be88-4a76-85fe-a54791d4dc7f.png">
 
 
 ## Table of Contents
