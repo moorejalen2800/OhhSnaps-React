@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <div className='header-wrapper'>
       <div className='main-info'>
-        <h1> Jalen React Portflio</h1>
+        <h1> Jalen React Portfolio</h1>
 
 
 

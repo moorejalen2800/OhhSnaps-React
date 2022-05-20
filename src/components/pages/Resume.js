@@ -11,15 +11,18 @@ function Resume() {
           <h2 className="top-title">Jalen Moore</h2>
           <ul>
             <li>
-              Core competencies in enterpirse content management, full-stack web
-              development, data architecture, and managing integrations.
+              Philadelphia Based Entry Level Full Stack Developer with hands-on training and experience designing, developing, and
+              implementing applications and solutions using a range of technologies and programming
+              languages. Seeking to leverage broad development experience and hands-on technical expertise
+              in a challenging role as a Full-stack Developer. 
+              Clicking photo will nevagate you to my LinkedIN.
             </li>
           </ul>
 
           <p class="mt-5">
             <a href="https://www.linkedin.com/in/jalen-moore-17a868233/">
               <img
-                src="https://elements-cover-images-0.imgix.net/6481d48a-fe8c-4a97-94a1-663be11e04d1?auto=compress&crop=edges&fit=crop&fm=jpeg&h=800&w=1200&s=a89f14b6da8b1872c642930e08e8287b"
+                src="https://blog.waalaxy.com/wp-content/uploads/2021/01/logo-linkedin-actuel.jpg"
                 alt="linkedIn"
               />
             </a>
@@ -39,8 +42,8 @@ function Resume() {
           <h2 className="top-title">Skills</h2>
           <ul>
             <li>
-            HTML, CSS (Bootstrap, HandleBars), JavaScript, jQuery, React.js, IndexedDB,<br />
-            Node.js, Express.js, SQL, Sequelize, MongoDB, Mongoose, NoSQL, APIs, Templating.
+              HTML, CSS (Bootstrap, HandleBars), JavaScript, jQuery, React.js, IndexedDB,<br />
+              Node.js, Express.js, SQL, Sequelize, MongoDB, Mongoose, NoSQL, APIs, Templating.
             </li>
           </ul>
         </div>
