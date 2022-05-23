@@ -1,55 +1,32 @@
-import React from "react";
+import React from 'react';
 
-function Resume() {
+const About = () => {
+
+
+
+
   return (
-    <section class="container">
-      <h2 className="top-title">Resume</h2>
+    <section className="container">
+      <h2 class="top-title">Jalen Moore</h2>
       <hr></hr>
-
       <div>
-        <div class="mt-5">
-          <h2 className="top-title">Jalen Moore</h2>
-          <ul>
-            <li>
-              Philadelphia Based Entry Level Full Stack Developer with hands-on training and experience designing, developing, and
-              implementing applications and solutions using a range of technologies and programming
-              languages. Seeking to leverage broad development experience and hands-on technical expertise
-              in a challenging role as a Full-stack Developer. 
-              Clicking photo will nevagate you to my LinkedIN.
-            </li>
-          </ul>
+        <img class="mb-5" id="avatar" src="https://media-exp1.licdn.com/dms/image/C4D03AQFvejIJxhP0ag/profile-displayphoto-shrink_400_400/0/1646453424015?e=1658361600&v=beta&t=oRUFTCJUyzdIjNjTFP6b-SlWQsMLif1BdqkBONJX2TM" alt="Jalen Moore" />
 
-          <p class="mt-5">
-            <a href="https://www.linkedin.com/in/jalen-moore-17a868233/">
-              <img
-                src="https://blog.waalaxy.com/wp-content/uploads/2021/01/logo-linkedin-actuel.jpg"
-                alt="linkedIn"
-              />
-            </a>
-          </p>
+        <p>
+        This portfolio is to showcase my projects with the hopes of one day sustaining a job in the tech world. With every new projet i hope to show amazing growth which is my num 1 objective. Curently working towrds being Full Stack Developer which include: Helping with the design and development of software. Testing and debugging software to keep it optimized.
+        </p>
+        <p>
+          Strong knowledge of Front and Backend Developement
+         </p>
 
-          <a
-            href="https://docs.google.com/document/d/1LHwfbPZNLFBR9k63x7GGCl1Zps5P52TPDYQYJjVkWLw/edit?usp=sharing"
-            class="link"
-          >
-            Download Resume
-          </a>
-        </div>
-      </div>
-
-      <div class="justify-content-center mt-5">
-        <div>
-          <h2 className="top-title">Skills</h2>
-          <ul>
-            <li>
-              HTML, CSS (Bootstrap, HandleBars), JavaScript, jQuery, React.js, IndexedDB,<br />
-              Node.js, Express.js, SQL, Sequelize, MongoDB, Mongoose, NoSQL, APIs, Templating.
-            </li>
-          </ul>
-        </div>
+          
       </div>
     </section>
+
+
+
+
   );
 }
 
-export default Resume;
+export default About;

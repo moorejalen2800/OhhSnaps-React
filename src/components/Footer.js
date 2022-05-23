@@ -1,29 +1,47 @@
 import React from "react";
 
-const Footer = () => {
-  
-    return (
-        <footer className="d-flex flex-wrap  align-items-center py-3 my-4 border-top" style={Footer}>
-        <div className="col-md-4 d-flex align-items-center">
-          <a href="/" className="mb-3 me-2 mb-md-0 text-muted text-decoration-none lh-1">
-            <svg className="bi" width="30" height="24"></svg>
+function Footer() {
+  return (
+    <footer
+      className="text-center text-white"
+      style={{ backgroundColor: "#f1f1f1" }}
+    >
+      <div className="container pt-4">
+        <section className="mb-4">
+          <a
+            className="btn btn-link btn-floating btn-lg text-dark m-1"
+            href="https://twitter.com/"
+            role="button"
+            data-mdb-ripple-color="dark"
+          >
+          Twitter      
           </a>
-          
-        </div>
-    
-        <ul className="nav col-md-4  list-unstyled d-flex" style={{fontSize: "40px"}}>
-        <a className="text-muted" href="https://github.com/jalenmoore2800">
-          <li className="ms-3"><i className="bi bi-github"></i></li>
+          <a
+            className="btn btn-link btn-floating btn-lg text-dark m-1"
+            href="https://www.linkedin.com/in/jalen-moore-17a868233/"
+            role="button"
+            data-mdb-ripple-color="dark"
+          >
+          LinkedIn
           </a>
-          <a className="text-muted"  href="https://www.linkedin.com/in/jalen-moore-17a868233/">
-          <li className="ms-3"><i className="bi bi-linkedin"></i></li>
+          <a
+            className="btn btn-link btn-floating btn-lg text-dark m-1"
+            href="https://github.com/MooreJalen2800"
+            role="button"
+            data-mdb-ripple-color="dark"
+          >
+          Github
           </a>
-          <a className="text-muted" href="http://www.github.com/moorejalen2800">
-          <li className="ms-3"><i className="bi bi-github"></i></li>
-          </a>
-        </ul>
-      </footer>
-    )
+        </section>
+      </div>
+      <div
+        className="text-center text-dark p-3"
+        style={{ backgroundColor: "rgba(0, 0, 0, 0.2)" }}
+      >
+        <p className="text-dark">© 2022 Copyright: Jalen Moore</p>
+      </div>
+    </footer>
+  );
 }
 
-export default Footer;
+export default Footer

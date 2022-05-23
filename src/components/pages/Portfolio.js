@@ -1,29 +1,35 @@
-import React from 'react'; 
-import ProjectCards from '../../components/Project'
-import portfolio from '../../portfolio.json'
-import 'bootstrap/dist/css/bootstrap.min.css';
+import React from 'react';
+import Project from './Project';
 
-function Wrapper(props) {
-    return <div className="wrapper">{props.children}</div>;
-}
+const projects = [
+    {
+        id: 1,
+        name: "",
+        img:"" ,
+        repoURL: "",
+        deployURL: ""
+    },
+    {
+        id: 2,
+        name: "",
+        img: ,
+        repoURL: "",
+        deployURL: ""
+    },
+    {
+        id: 3,
+        name: "",
+        img: noteTakerImg,
+        repoURL: "",
+        deployURL: "h"
+    },
+]
 
-function Portfolio () {  
-
+export default function Portfolio() {
     return (
-        <section className="container">
-          <div className="project">
-            <h2 className="top-title">Bootcamp Portfolio</h2>
-            <hr></hr>
-          </div>
-
-          <Wrapper id="card-data">
-            {portfolio.map((project) => (
-              <ProjectCards key={project.id} image={project.image} name={project.name} github={project.github} deploy={project.deploy} topics={project.topics}/>
-            ))}
-          </Wrapper>
-        </section>
-    
+      <div>
+        <h1>Coding Portfolio</h1>
+        <Project projects = { projects } />
+      </div>
     );
   }
-
-export default Portfolio;
